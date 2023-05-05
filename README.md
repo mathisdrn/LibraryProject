@@ -1,4 +1,4 @@
-# LibraryProject
+# 📚 LibraryProject
  
 - Data scraping of [bookstocrape.com](https://books.toscrape.com/)
 - Library Web app to search through books
