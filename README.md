@@ -4,9 +4,11 @@
 - Library Web app to search through books
 
 
-Scraping.ipynb : scraping of bookstoscrape.com and save in .csv file
-EDA : creation of stopwords list + miscellaneous
-_📚_library.py : Streamlit web app of Library with search engine
+**Scraping.ipynb** : scraping of bookstoscrape.com and save in .csv file
+
+**EDA** : creation of stopwords list + miscellaneous
+
+**_📚_library.py** : Streamlit web app of Library with search engine
 
 Is publicly hosted and available [here]()
 
