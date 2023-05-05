@@ -12,4 +12,4 @@ Project include :
 
 **_📚_library.py** : Streamlit web app of Library with search engine
 
-Other similar project include this Streamlit app : [Fuel consumption app]([https://](https://mathisdrn-fuel-consumption-app---main-langb4.streamlit.app/))
+Other similar project include this Streamlit app : [Fuel consumption app](https://mathisdrn-fuel-consumption-app---main-langb4.streamlit.app/)
